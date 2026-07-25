@@ -4,10 +4,7 @@
 
 > 非官方项目，与 OpenAI 无隶属或背书关系。Codex、ChatGPT 等名称归其各自权利人所有。
 
-[![macOS 13+](https://img.shields.io/badge/macOS-13%2B-black)](https://www.apple.com/macos/)
-[![Swift 6](https://img.shields.io/badge/Swift-6-orange)](https://www.swift.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![CI](https://github.com/yidiandianzheng/codex-pet-energy/actions/workflows/ci.yml/badge.svg)](https://github.com/yidiandianzheng/codex-pet-energy/actions/workflows/ci.yml)
+![算力条界面](docs/图片/算力条界面.png)
 
 ## 功能
 
@@ -30,8 +27,8 @@
 ## 快速安装
 
 ```bash
-git clone https://github.com/yidiandianzheng/codex-pet-energy.git
-cd codex-pet-energy
+git clone https://github.com/yidiandianzheng/Codex算力条.git
+cd Codex算力条
 swift run CodexPetEnergy --self-test
 ./scripts/install-app.sh
 open "$HOME/Applications/Codex算力条.app"
@@ -70,12 +67,12 @@ swift build -c release
 
 ## 建议与反馈
 
-- 遇到错误：[提交 Bug](https://github.com/yidiandianzheng/codex-pet-energy/issues/new?template=bug_report.yml)
-- 想要新功能：[提交功能建议](https://github.com/yidiandianzheng/codex-pet-energy/issues/new?template=feature_request.yml)
-- 使用交流、开放讨论：[GitHub Discussions](https://github.com/yidiandianzheng/codex-pet-energy/discussions)
+- 遇到错误：[提交错误报告](https://github.com/yidiandianzheng/Codex算力条/issues/new?template=bug_report.yml)
+- 想要新功能：[提交功能建议](https://github.com/yidiandianzheng/Codex算力条/issues/new?template=feature_request.yml)
+- 使用交流、开放讨论：[进入讨论区](https://github.com/yidiandianzheng/Codex算力条/discussions)
 
-提交前请先搜索是否已有相同内容。贡献流程见：[CONTRIBUTING.md](CONTRIBUTING.md)。
+提交前请先搜索是否已有相同内容。贡献流程见：[贡献说明](CONTRIBUTING.md)。
 
 ## 开源许可
 
-[MIT License](LICENSE)
+[MIT 开源许可](LICENSE)
