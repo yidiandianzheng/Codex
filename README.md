@@ -27,8 +27,8 @@
 ## 快速安装
 
 ```bash
-git clone https://github.com/yidiandianzheng/Codex算力条.git
-cd Codex算力条
+git clone https://github.com/yidiandianzheng/Codex.git
+cd Codex
 swift run CodexPetEnergy --self-test
 ./scripts/install-app.sh
 open "$HOME/Applications/Codex算力条.app"
@@ -67,9 +67,9 @@ swift build -c release
 
 ## 建议与反馈
 
-- 遇到错误：[提交错误报告](https://github.com/yidiandianzheng/Codex算力条/issues/new?template=bug_report.yml)
-- 想要新功能：[提交功能建议](https://github.com/yidiandianzheng/Codex算力条/issues/new?template=feature_request.yml)
-- 使用交流、开放讨论：[进入讨论区](https://github.com/yidiandianzheng/Codex算力条/discussions)
+- 遇到错误：[提交错误报告](https://github.com/yidiandianzheng/Codex/issues/new?template=bug_report.yml)
+- 想要新功能：[提交功能建议](https://github.com/yidiandianzheng/Codex/issues/new?template=feature_request.yml)
+- 使用交流、开放讨论：[进入讨论区](https://github.com/yidiandianzheng/Codex/discussions)
 
 提交前请先搜索是否已有相同内容。贡献流程见：[贡献说明](CONTRIBUTING.md)。
 
